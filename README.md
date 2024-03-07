@@ -6,7 +6,7 @@
 I am a **master's student** with a degree in **chemical engineering**. I am creative, curious and self-taught. I love exploring new technologies and learning new skills.<br>
 <img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
 
-- 🌱 I’m currently focusing on **Android Development** and practicing **Data Structures and Algorithms** everyday.
+<!- 🌱 I’m currently focusing on **Android Development** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
 - Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄.

@@ -9,7 +9,7 @@ I am a **master's student** with a degree in **chemical engineering**. I am crea
 <!-- - 🌱 I’m currently focusing on **Android Development** and practicing **Data Structures and Algorithms** everyday.
 - 💬 I’m looking forward to contribute to **Open Source Projects**.
 - ⚡ Fun fact: There are 10 types of people in this world those who understand binary and those who don't :)
-- Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄. -->
+- Show ❤ by giving⭐to my Repositories, at least your star could make someone's day 😄. 
 
 <br>
 
@@ -29,8 +29,4 @@ I am a **master's student** with a degree in **chemical engineering**. I am crea
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Thanks+For+Visiting!!&center=true&color="FF0000")](https://github.com/tanyagupta0201)
 
----
-
-Credit: [tanyagupta0201](https://github.com/tanyagupta0201)
-
-Last Edited on: 19/08/2021
+-->

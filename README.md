@@ -11,7 +11,14 @@
 
 I am a **master's student** with a degree in **chemical engineering**. I am creative, curious and self-taught. I love exploring new technologies and learning new skills.<br>
 
-<img align='right' src="http://cdn.lowgif.com/small/9cb12f51dffbaaa6-character-typing-by-vincent-mokuenko-dribbble.gif" width="250" height="210">
-<br>
+<img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/></p>
+
+
+<!--
+<h3 align="left">👩🏽‍💻 Some articles</h3>
+<h3 align="left">👩🏽‍💻 My personal portfolio</h3>
+
+--->

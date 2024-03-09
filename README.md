@@ -13,8 +13,14 @@ I am a **master's student** with a degree in **chemical engineering**. I am crea
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/><img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/></p>
+<h2  align="left"> 🛠️ My Skills:</h2>
+
+<h3 align="left"> 👨‍💻 Programming Languages:</h3>
+<p align="left"> <img src="https://img.icons8.com/color/48/4a90e2/c-plus-plus-logo.png"/>
+  <img src="https://img.icons8.com/color/48/4a90e2/python--v1.png"/></p>
+
+
+
 
 
 <!--

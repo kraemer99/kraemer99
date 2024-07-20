@@ -9,7 +9,7 @@
       alt="Viral Bhadeshiya" height="30" width="40" /></a>
 </p>
 
-I am a **master's student** with a degree in **chemical engineering**. I am creative, curious and self-taught. I love exploring new technologies and learning new skills.<br>
+I am a **chemical engineer** with a master's degree in chemical engineering. I am creative, curious and self-taught. I love exploring new technologies and learning new skills.<br>
 
 <img align="right" alt="Coding" width="350" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
